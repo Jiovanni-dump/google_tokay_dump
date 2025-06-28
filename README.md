@@ -1,0 +1,14 @@
+# tokay_beta-user 16 BP31.250523.010 13667654 release-keys
+- manufacturer: google
+- platform: zumapro
+- codename: tokay
+- flavor: tokay_beta-user
+- release: 16
+- id: BP31.250523.010
+- incremental: 13667654
+- tags: release-keys
+- fingerprint: google/tokay_beta/tokay:16/BP31.250523.010/13667654:user/release-keys
+- is_ab: true
+- brand: google
+- branch: tokay_beta-user-16-BP31.250523.010-13667654-release-keys
+- repo: google_tokay_dump

@@ -1,0 +1,11 @@
+modem.img
+product/priv-app/PrebuiltGmsCoreVic/PrebuiltGmsCoreVic.apk
+product/priv-app/PrebuiltBugle/PrebuiltBugle.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/DevicePersonalizationPrebuiltPixel2024-bfinal_aiai_20250217.00_RC08/DevicePersonalizationPrebuiltPixel2024-bfinal_aiai_20250217.00_RC08.apk
+product/priv-app/GoogleCamera/GoogleCamera.apk
+product/app/Photos/Photos.apk
+product/app/PrebuiltGmail/PrebuiltGmail.apk
+product/app/YouTube/YouTube.apk
+product/app/Maps/Maps.apk
+vendor/apex/com.google.pixel.camera.hal.apex
