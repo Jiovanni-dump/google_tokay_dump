@@ -1,0 +1,8 @@
+product/app/Maps/Maps.apk.xz
+product/app/Photos/Photos.apk.xz
+product/app/PrebuiltGmail/PrebuiltGmail.apk.xz
+product/app/YouTube/YouTube.apk.xz
+product/priv-app/DevicePersonalizationPrebuiltPixel2024-bfinal_aiai_20250217.00_RC08/DevicePersonalizationPrebuiltPixel2024-bfinal_aiai_20250217.00_RC08.apk.xz
+vendor/apex/com.google.pixel.camera.hal.apex.xz
+product/priv-app/PrebuiltBugle/PrebuiltBugle.apk.xz
+product/priv-app/PrebuiltGmsCoreVic/PrebuiltGmsCoreVic.apk.xz
