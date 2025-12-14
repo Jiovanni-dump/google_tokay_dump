@@ -1,0 +1,9 @@
+# Soft dependencies extracted from modules themselves.
+softdep mali_kbase pre: mali_pixel
+softdep mali_kbase pre: exynos-pd-dbg
+softdep mali_kbase pre: memory_group_manager
+softdep mali_kbase pre: itmon
+softdep mali_pixel pre: pixel_stat_sysfs
+softdep mali_pixel pre: slc_pmon
+softdep mali_pixel pre: slc_dummy
+softdep mali_pixel pre: slc_acpm

@@ -1,0 +1,3402 @@
+{
+    "configurations": [
+        {
+            "platform": 4,
+            "product": 7,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1f24efe98bc16bb63a269fa1f51fd88669432ef9",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 0,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 4,
+            "product": 7,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1f24efe98bc16bb63a269fa1f51fd88669432ef9",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 1,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 4,
+            "product": 7,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1f24efe98bc16bb63a269fa1f51fd88669432ef9",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 2,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 6,
+            "product": 13,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1f24efe98bc16bb63a269fa1f51fd88669432ef9",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 0,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1f24efe98bc16bb63a269fa1f51fd88669432ef9",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 2,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_d0256ab792ae7ff80c9f842a8bca39eeafe98a25",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 3,
+                    "rf_sku": 0,
+                    "rfid": 3,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 5,
+            "product": 2,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1f24efe98bc16bb63a269fa1f51fd88669432ef9",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 0,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_d0256ab792ae7ff80c9f842a8bca39eeafe98a25",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 3,
+                    "rf_sku": 0,
+                    "rfid": 3,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 7,
+            "product": 1,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1f24efe98bc16bb63a269fa1f51fd88669432ef9",
+                    "stage": 1,
+                    "major": 0,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 0,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1f24efe98bc16bb63a269fa1f51fd88669432ef9",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 0,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_d0256ab792ae7ff80c9f842a8bca39eeafe98a25",
+                    "stage": 1,
+                    "major": 0,
+                    "minor": 0,
+                    "rf_sub": 3,
+                    "rf_sku": 0,
+                    "rfid": 3,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_d0256ab792ae7ff80c9f842a8bca39eeafe98a25",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 3,
+                    "rf_sku": 0,
+                    "rfid": 3,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 4,
+            "product": 7,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_d0256ab792ae7ff80c9f842a8bca39eeafe98a25",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 3,
+                    "rf_sku": 0,
+                    "rfid": 3,
+                    "hwinfo": 0,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 4,
+            "product": 6,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_08d1269a73e1307817b2a07302493d0a1c82842f",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 101,
+                    "hwinfo": 385,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_08d1269a73e1307817b2a07302493d0a1c82842f",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 102,
+                    "hwinfo": 385,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_08d1269a73e1307817b2a07302493d0a1c82842f",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 103,
+                    "hwinfo": 385,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 6,
+            "product": 6,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_08d1269a73e1307817b2a07302493d0a1c82842f",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 104,
+                    "hwinfo": 385,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_08d1269a73e1307817b2a07302493d0a1c82842f",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 105,
+                    "hwinfo": 385,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_08d1269a73e1307817b2a07302493d0a1c82842f",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 106,
+                    "hwinfo": 385,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2da05c97e4ea2314d7b6a61fee9e34eb78382ff5",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 107,
+                    "hwinfo": 385,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_838d9a30a57350c776810ac41e734f872fdf0c4b",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 108,
+                    "hwinfo": 385,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_838d9a30a57350c776810ac41e734f872fdf0c4b",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 108,
+                    "hwinfo": 385,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 4,
+            "product": 8,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 201,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 203,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 205,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 202,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 202,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 204,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 204,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 206,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 206,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 6,
+            "product": 8,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 207,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 207,
+                    "hwinfo": 321,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 209,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 209,
+                    "hwinfo": 321,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 211,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 211,
+                    "hwinfo": 321,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 213,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 215,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 217,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2e42ee819f41551160b29d51c55014411f634325",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 219,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_8dcb1a25e0f27def7667adc548629fa2332e27df",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 221,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_49d098cb5398eb12b7b5d140ce9c1c66efd59d24",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 223,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_49d098cb5398eb12b7b5d140ce9c1c66efd59d24",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 223,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_ea3a795ef09e64478197c078addb9ad0ce3bd680",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 225,
+                    "hwinfo": 321,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 208,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 208,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 208,
+                    "hwinfo": 322,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 208,
+                    "hwinfo": 322,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 210,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 210,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 210,
+                    "hwinfo": 322,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 210,
+                    "hwinfo": 322,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 1,
+                    "rfid": 212,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 2,
+                    "rfid": 212,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 1,
+                    "rfid": 212,
+                    "hwinfo": 322,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 2,
+                    "rfid": 212,
+                    "hwinfo": 322,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 214,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 214,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 216,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 216,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 2,
+                    "rf_sku": 1,
+                    "rfid": 218,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 2,
+                    "rf_sku": 2,
+                    "rfid": 218,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 220,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57aa437d94b404ea53894b8a7bd9fbd8d3b9a313",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 220,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57d6c37f2a45af283b894e106985c49a302a1c39",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 222,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_57d6c37f2a45af283b894e106985c49a302a1c39",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 222,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_917f608791d5d5fa3eb1b5fe1d72151501f75023",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 224,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_917f608791d5d5fa3eb1b5fe1d72151501f75023",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 224,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_917f608791d5d5fa3eb1b5fe1d72151501f75023",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 224,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_917f608791d5d5fa3eb1b5fe1d72151501f75023",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 224,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_917bb7fcdbb951283b74a41aecc38749e3a52ab1",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 226,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_917bb7fcdbb951283b74a41aecc38749e3a52ab1",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 226,
+                    "hwinfo": 322,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 4,
+            "product": 9,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 301,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 303,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 305,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 302,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 302,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 304,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 304,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 306,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 306,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 6,
+            "product": 9,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 307,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 307,
+                    "hwinfo": 289,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 309,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 309,
+                    "hwinfo": 289,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 311,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 311,
+                    "hwinfo": 289,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 313,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 315,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 317,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_30756a6ba72a70aadd438ffd1d0edfdebbecaaa5",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 319,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_0e0478278cc9edc988b422b412c0bfa7144cfad8",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 321,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_d4f18868de1d7e81cb238fd937db5ce58ca3fc88",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 323,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_ab7224bb1ee14bf9cba4d876e8e8b22eb0974f6d",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 325,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_ab7224bb1ee14bf9cba4d876e8e8b22eb0974f6d",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 325,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_165919deb7578b4afb87f7f2bdd6d39d28464a30",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 327,
+                    "hwinfo": 289,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 308,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 308,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 308,
+                    "hwinfo": 290,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 308,
+                    "hwinfo": 290,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 310,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 310,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 310,
+                    "hwinfo": 290,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 310,
+                    "hwinfo": 290,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 1,
+                    "rfid": 312,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 2,
+                    "rfid": 312,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 1,
+                    "rfid": 312,
+                    "hwinfo": 290,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 2,
+                    "rfid": 312,
+                    "hwinfo": 290,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 314,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 314,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 316,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 316,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 2,
+                    "rf_sku": 1,
+                    "rfid": 318,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 2,
+                    "rf_sku": 2,
+                    "rfid": 318,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 320,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b01591978b79ce3c3de7426a86c4f9e191de5513",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 320,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e43948c69d11d0625e6cdad9b4861b3035fa4254",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 322,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e43948c69d11d0625e6cdad9b4861b3035fa4254",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 322,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_a9db77f1c8415026ee0cfeb2a80810aca7f8a281",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 1,
+                    "rfid": 324,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_a9db77f1c8415026ee0cfeb2a80810aca7f8a281",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 2,
+                    "rfid": 324,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e29957ceb34b9dc10bd36f42b29a018771866592",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 326,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e29957ceb34b9dc10bd36f42b29a018771866592",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 326,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e29957ceb34b9dc10bd36f42b29a018771866592",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 326,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e29957ceb34b9dc10bd36f42b29a018771866592",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 326,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_76681f6b86e3ad152bd94ec0474f43b24cc43e3e",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 328,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_76681f6b86e3ad152bd94ec0474f43b24cc43e3e",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 328,
+                    "hwinfo": 290,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 4,
+            "product": 10,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 401,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 403,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 405,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 402,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 402,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 404,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 404,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 406,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 406,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 6,
+            "product": 10,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 407,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 407,
+                    "hwinfo": 273,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 409,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 409,
+                    "hwinfo": 273,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 411,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 411,
+                    "hwinfo": 273,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 413,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 415,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 2,
+                    "rf_sku": 0,
+                    "rfid": 417,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_66d9603509d8cf2256cc2b4e73e8fe95d2e23bcd",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 419,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_bf1c59f1867d9c0fa3c5f6d1efe321b09e7c3fe8",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 421,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_3a248b1daec887bdee2b7c354d1d3bc319ce4bdc",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 423,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_3a248b1daec887bdee2b7c354d1d3bc319ce4bdc",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 423,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_3f3d3546642fa8209546b6522b8099b174838609",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 425,
+                    "hwinfo": 273,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 408,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 408,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 408,
+                    "hwinfo": 274,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 408,
+                    "hwinfo": 274,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 410,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 410,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 410,
+                    "hwinfo": 274,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 410,
+                    "hwinfo": 274,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 1,
+                    "rfid": 412,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 2,
+                    "rfid": 412,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 1,
+                    "rfid": 412,
+                    "hwinfo": 274,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 2,
+                    "rf_sku": 2,
+                    "rfid": 412,
+                    "hwinfo": 274,
+                    "modem_hw": 1
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 414,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 414,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 416,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 416,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 2,
+                    "rf_sku": 1,
+                    "rfid": 418,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 2,
+                    "rf_sku": 2,
+                    "rfid": 418,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 420,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_59364d8722bd52189aa5d261a70179e74bc4de01",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 420,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_5fe1131860255a104b9b40c164352df144dd73ea",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 422,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_5fe1131860255a104b9b40c164352df144dd73ea",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 422,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e5e51da1fc7d740f358f02168d7f1193ffb5bdd4",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 424,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e5e51da1fc7d740f358f02168d7f1193ffb5bdd4",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 424,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e5e51da1fc7d740f358f02168d7f1193ffb5bdd4",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 424,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e5e51da1fc7d740f358f02168d7f1193ffb5bdd4",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 424,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_484b521238f8284aca9920a6fbc25d92c892383b",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 426,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_484b521238f8284aca9920a6fbc25d92c892383b",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 426,
+                    "hwinfo": 274,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 7,
+            "product": 3,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_f683263afbdbd17670f24bd629703d26f3569060",
+                    "stage": 2,
+                    "major": 0,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 601,
+                    "hwinfo": 1041,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_f683263afbdbd17670f24bd629703d26f3569060",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 601,
+                    "hwinfo": 1041,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_f683263afbdbd17670f24bd629703d26f3569060",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 603,
+                    "hwinfo": 1041,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_41c5c3ef59e3869520388f3095ab4c88e65a6275",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 602,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_41c5c3ef59e3869520388f3095ab4c88e65a6275",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 602,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_41c5c3ef59e3869520388f3095ab4c88e65a6275",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 604,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_41c5c3ef59e3869520388f3095ab4c88e65a6275",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 604,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_ea1eb9bfbf1386e0dab4829cbc2fe920e07c142e",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 605,
+                    "hwinfo": 1041,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_26cb266386145a263a2a1f99aa348c5f9147cd93",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 606,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_26cb266386145a263a2a1f99aa348c5f9147cd93",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 606,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_99d38a834dd6af81b714e8c409f5e63e87ed9ad1",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 607,
+                    "hwinfo": 1041,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_c82d5f4cf0cd83ccd7d81071ed663f4e365bbd79",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 608,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_c82d5f4cf0cd83ccd7d81071ed663f4e365bbd79",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 608,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_530108df2cbc82d5784ebf4f7772eec2e4e6a615",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 609,
+                    "hwinfo": 1041,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_c007ad50dd9f891e1777c9c84dcfe11186bf3402",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 610,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_c007ad50dd9f891e1777c9c84dcfe11186bf3402",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 610,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_9542c0d8520754ad9159765906cff62519d2b2b7",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 611,
+                    "hwinfo": 1041,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_8e78d2a54b74bbce63c00debcf40db9b24b5705f",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 612,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_8e78d2a54b74bbce63c00debcf40db9b24b5705f",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 612,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_c5f84e0127e41b7a754bbdfc7da83fe3300afd86",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 613,
+                    "hwinfo": 1041,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_872ac2730bbb8d9a3a83bab608b9db3b408ccc91",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 614,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_872ac2730bbb8d9a3a83bab608b9db3b408ccc91",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 614,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2d0e56976d09aa6c336fccf385a49ff9f995a6a7",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 615,
+                    "hwinfo": 1041,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2d0e56976d09aa6c336fccf385a49ff9f995a6a7",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 615,
+                    "hwinfo": 1041,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2d0e56976d09aa6c336fccf385a49ff9f995a6a7",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 615,
+                    "hwinfo": 1041,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1dae8cdde21a24ff7c7ddbf19c06ec4f016cc673",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 616,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1dae8cdde21a24ff7c7ddbf19c06ec4f016cc673",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 616,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1dae8cdde21a24ff7c7ddbf19c06ec4f016cc673",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 616,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1dae8cdde21a24ff7c7ddbf19c06ec4f016cc673",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 616,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1dae8cdde21a24ff7c7ddbf19c06ec4f016cc673",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 616,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_1dae8cdde21a24ff7c7ddbf19c06ec4f016cc673",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 616,
+                    "hwinfo": 1042,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 7,
+            "product": 4,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_961e364bfbe920230487a367b9dbd2f51420d6ce",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 701,
+                    "hwinfo": 1057,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_961e364bfbe920230487a367b9dbd2f51420d6ce",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 703,
+                    "hwinfo": 1057,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_6949f679a275c3caae6cf3321ad2e48fb1f55de5",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 702,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_6949f679a275c3caae6cf3321ad2e48fb1f55de5",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 702,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_6949f679a275c3caae6cf3321ad2e48fb1f55de5",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 704,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_6949f679a275c3caae6cf3321ad2e48fb1f55de5",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 704,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_d0ef4ffe64bf8bce53a9442f638364dd1eed8b03",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 705,
+                    "hwinfo": 1057,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_ae6aec92d78908d7f1d6c2fcfd2521971d5ad593",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 706,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_ae6aec92d78908d7f1d6c2fcfd2521971d5ad593",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 706,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_568ef030096af5cf27ff6f8b49ba921caa5059df",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 707,
+                    "hwinfo": 1057,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_cbbe154675f39f7c8c2c3d35441f1e10e91b2e3f",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 708,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_cbbe154675f39f7c8c2c3d35441f1e10e91b2e3f",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 708,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_3a74d03907469c2738100a558b28c3fcbad3db80",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 709,
+                    "hwinfo": 1057,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_51766994c251f808b8149383e5cc4fd65cb2c7c9",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 710,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_51766994c251f808b8149383e5cc4fd65cb2c7c9",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 710,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_01894958812b12db474fdd03f0a326a317873a50",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 711,
+                    "hwinfo": 1057,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_8fe7e631e839b8ad493cf420ab50dbed2fb8340f",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 712,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_8fe7e631e839b8ad493cf420ab50dbed2fb8340f",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 712,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_ca06219f36cd64b65c13b5d74b78fe87be72dd52",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 713,
+                    "hwinfo": 1057,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e9eaeb0c5f9cab0b89df0877b6f18ed335cbb40b",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 714,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_e9eaeb0c5f9cab0b89df0877b6f18ed335cbb40b",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 714,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2eda0b1214a5b148bb95a57b36bde7de68f9653a",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 715,
+                    "hwinfo": 1057,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2eda0b1214a5b148bb95a57b36bde7de68f9653a",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 715,
+                    "hwinfo": 1057,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_2eda0b1214a5b148bb95a57b36bde7de68f9653a",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 715,
+                    "hwinfo": 1057,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_cf67e527a25c96e86f25aa569ae37dafca8bf61d",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 716,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_cf67e527a25c96e86f25aa569ae37dafca8bf61d",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 716,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_cf67e527a25c96e86f25aa569ae37dafca8bf61d",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 716,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_cf67e527a25c96e86f25aa569ae37dafca8bf61d",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 716,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_cf67e527a25c96e86f25aa569ae37dafca8bf61d",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 716,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_cf67e527a25c96e86f25aa569ae37dafca8bf61d",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 716,
+                    "hwinfo": 1058,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 7,
+            "product": 5,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_7428102c5a8c3e31e3d4bc9b24a549504fa6ce77",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 801,
+                    "hwinfo": 1089,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_7428102c5a8c3e31e3d4bc9b24a549504fa6ce77",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 803,
+                    "hwinfo": 1089,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_391ada594756a63fd8e7ff65f0cd04ef3196e3b8",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 802,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_391ada594756a63fd8e7ff65f0cd04ef3196e3b8",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 802,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_391ada594756a63fd8e7ff65f0cd04ef3196e3b8",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 804,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_391ada594756a63fd8e7ff65f0cd04ef3196e3b8",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 804,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_a4f0e5bb2e22da0c414fd50fa119aad08eb29979",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 805,
+                    "hwinfo": 1089,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_dfc4351e785a652ebde21e8b3c777083f824fb82",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 806,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_dfc4351e785a652ebde21e8b3c777083f824fb82",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 806,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_8aa0b0500574f3425270127fb23d2c06075a3043",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 807,
+                    "hwinfo": 1089,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_381e1d44ada9136dc66a75b0b5264b4d0b3abc8f",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 808,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_381e1d44ada9136dc66a75b0b5264b4d0b3abc8f",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 808,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_d5ad526448021ef7a99c5bd0c6560da09cfde0b7",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 809,
+                    "hwinfo": 1089,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_ad0a8bdad146405dbdd0084593b90c2a7c7010d3",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 810,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_ad0a8bdad146405dbdd0084593b90c2a7c7010d3",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 810,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_d364cc5672cbb341da6993ae10aa3c3a6dac5baf",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 811,
+                    "hwinfo": 1089,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_4a9e78c99aa5f833328304c6256bdff914f53a04",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 812,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_4a9e78c99aa5f833328304c6256bdff914f53a04",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 812,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_34c2fd6e0f1ce3266f298fa2636409297ccd3da6",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 813,
+                    "hwinfo": 1089,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_3b4bfe75946a9e60765b8c635e240e007d3117b0",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 1,
+                    "rfid": 814,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_3b4bfe75946a9e60765b8c635e240e007d3117b0",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 2,
+                    "rfid": 814,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_600795a2040059e3b2434f47b2b0cf2198727e90",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 815,
+                    "hwinfo": 1089,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_600795a2040059e3b2434f47b2b0cf2198727e90",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 815,
+                    "hwinfo": 1089,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_600795a2040059e3b2434f47b2b0cf2198727e90",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 815,
+                    "hwinfo": 1089,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_be9c0b32a80390a07155c286c0ec228d47a69574",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 816,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_be9c0b32a80390a07155c286c0ec228d47a69574",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 816,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_be9c0b32a80390a07155c286c0ec228d47a69574",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 816,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_be9c0b32a80390a07155c286c0ec228d47a69574",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 816,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_be9c0b32a80390a07155c286c0ec228d47a69574",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 816,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_be9c0b32a80390a07155c286c0ec228d47a69574",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 816,
+                    "hwinfo": 1090,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 7,
+            "product": 6,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_db23cf092cee7417127253e0f5866c06d0e39eba",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 901,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_4e9beac525041f5a3d24894697e8e1b751a218ef",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 902,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_d46164cea841235b2f96d23216778d258ca108da",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 1,
+                    "rf_sku": 0,
+                    "rfid": 903,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_4c9d0bf4d0044a7cf080653cff670730308025cb",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 904,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_4c9d0bf4d0044a7cf080653cff670730308025cb",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 904,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_4556c6c0c4c947dab1bde073972bf2f6ac90a8c2",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 905,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_4556c6c0c4c947dab1bde073972bf2f6ac90a8c2",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 905,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_27f0dbb9dd9a424cdbc70f6a7a0269d99e9da5d5",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 906,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_27f0dbb9dd9a424cdbc70f6a7a0269d99e9da5d5",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 906,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_27f0dbb9dd9a424cdbc70f6a7a0269d99e9da5d5",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 906,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_27f0dbb9dd9a424cdbc70f6a7a0269d99e9da5d5",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 906,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_27f0dbb9dd9a424cdbc70f6a7a0269d99e9da5d5",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 0,
+                    "rfid": 906,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_27f0dbb9dd9a424cdbc70f6a7a0269d99e9da5d5",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 906,
+                    "hwinfo": 1153,
+                    "modem_hw": 0
+                }
+            ]
+        },
+        {
+            "platform": 6,
+            "product": 19,
+            "config_table": [
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_407f4e7abf6c38a9004d6b77007a95872f0140d2",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 1001,
+                    "hwinfo": 2066,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_60282d331d6ce3809b3221a8c224b4a79e8752e0",
+                    "stage": 1,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 1002,
+                    "hwinfo": 2068,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_772252178475aebce881a01267d6e234d6012999",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 1003,
+                    "hwinfo": 2066,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_d62dbe04dc0d3385aeedb551297b826bea7530a8",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 1004,
+                    "hwinfo": 2068,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b09df4ee246c0831b8efa36ca5610fb320a0f797",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 1005,
+                    "hwinfo": 2066,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_dfc19d7aba97090fc7345e69ee08c91e6c327e81",
+                    "stage": 2,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 1006,
+                    "hwinfo": 2068,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_aa268794fc8512505701f8a533d4245259bd875d",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 1007,
+                    "hwinfo": 2066,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_5fc0ff84c7090f9b32c829851c3c20c9b87ffe62",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 1008,
+                    "hwinfo": 2068,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_074dd047dc2ddb576db738ab41748df36c584539",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 1009,
+                    "hwinfo": 2066,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_fad9da187279b5e3028545ac16f0fee3b95f5f26",
+                    "stage": 3,
+                    "major": 1,
+                    "minor": 1,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 1010,
+                    "hwinfo": 2068,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_b363c3d04250b119b83dc395669c6e33c536b842",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 1011,
+                    "hwinfo": 2066,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_4b735829bf4512ce0b432a36428f686115fc8a32",
+                    "stage": 4,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 1012,
+                    "hwinfo": 2068,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_f238d2f711d8dacc518e387a4a07c347f6f9bae1",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 1013,
+                    "hwinfo": 2066,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_f238d2f711d8dacc518e387a4a07c347f6f9bae1",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 1,
+                    "rfid": 1013,
+                    "hwinfo": 2066,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_cf47431db7da94bb5871a78c55e9647539543866",
+                    "stage": 5,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 1014,
+                    "hwinfo": 2068,
+                    "modem_hw": 0
+                },
+                {
+                    "config_file": "/mnt/vendor/modem_img/images/default/RF_CFG_cf47431db7da94bb5871a78c55e9647539543866",
+                    "stage": 6,
+                    "major": 1,
+                    "minor": 0,
+                    "rf_sub": 0,
+                    "rf_sku": 2,
+                    "rfid": 1014,
+                    "hwinfo": 2068,
+                    "modem_hw": 0
+                }
+            ]
+        }
+    ]
+}
